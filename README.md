@@ -36,9 +36,7 @@ The lab consists of an on-premises Windows Server environment connected to Micro
 |---|---|
 | **Windows Server 2025** | Active Directory Domain Controller |
 | **Microsoft Entra ID** | Cloud Identity & Access Management |
-| **Microsoft Entra Cloud Sync** | AD → Entra identity synchronization |
-| **Windows Client** | Domain-joined endpoint |
-| **Ubuntu Server** | Linux infrastructure server |
+| **Windows 10 Client** | Domain-joined endpoint |
 | **pfSense** | Network gateway, firewall & DNS |
 | **VMware Workstation** | Virtualization platform |
 
