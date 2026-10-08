@@ -110,3 +110,10 @@ Microsoft Entra ID
        ├── Application Access
        │
        └── Audit & Provisioning Logs
+
+```
+## Documentation
+
+Detailed implementation steps, screenshots, configurations, and observations are available in the project documentation.
+
+[View Project Documentation](Documentation.pdf)
